@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  HTML5 Form Validations
+<!--hide-->
+# Validaciones de formulario HTML5
+<!--endhide-->
 
 Después de crear el HTML y el CSS para este formulario, debemos asegurarnos de que evite que el usuario envíe un formulario con la información o el formato incorrectos. En el desarrollo web, lo llamamos: Validación de formularios. Dale un vistazo a la [documentación oficial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation).
 
@@ -36,4 +38,4 @@ Luego de que el usuario presione el botón de submit:
 
 Este requerimiento adicional no es necesario para completar el proyecto:
 
- Haz que los errores del formulario se visualizen arriba de cada input en lugar de mostrarlos en la parte de arriba del formulario. Si el error esta en el correo electronico entonces el mensaje de error deberia aparecer justo arriba del input para correo electronico, de esa forma el usuario entenderá más rápidamente donde esta el problema.
+ Haz que los errores del formulario se visualicen arriba de cada input en lugar de mostrarlos en la parte de arriba del formulario. Si el error está en el correo electrónico entonces el mensaje de error debería aparecer justo arriba del input para correo electrónico, de esa forma el usuario entenderá más rápidamente donde está el problema.
