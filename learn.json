@@ -3,6 +3,7 @@
 	"title" : "Use JS to validate an HTML Form",
 	"slug" : "html5-form-validations",
 	"duration" : 4,
+	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
 	"difficulty": "beginner",
 	"technologies": ["forms", "html/css", "bootstrap"],
 	"translations": ["es", "us"],
